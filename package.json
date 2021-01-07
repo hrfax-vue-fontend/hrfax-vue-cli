@@ -1,10 +1,10 @@
 {
-  "name": "hrfax-frontend-cli",
-  "version": "1.0.5",
-  "description": "hrfax-frontend-cli",
+  "name": "hrfax-vue-cli",
+  "version": "1.0.3",
+  "description": "hrfax-vue-cli",
   "preferGlobal": true,
   "bin": {
-    "hrfax": "bin/hrfax"
+    "hrfax-vue": "bin/hrfax"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "frontend-cli",
     "hrfax"
   ],
-  "author": "yangwenshou",
+  "author": "dufan1994",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",

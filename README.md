@@ -1,19 +1,27 @@
-# hrfax-frontend
+<!--
+ * @Author: your name
+ * @Date: 2021-01-07 14:05:06
+ * @LastEditTime: 2021-01-07 16:18:03
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \frontend-cli-master\README.md
+-->
+# hrfax-vue-fontend
 
-hrfax-frontend is a cli tool for frontend develop
+hrfax-vue-fontend is a cli tool for frontend develop
 
 ## Install
 
-    $ [sudo]npm install -g hrfax-frontend-cli
+    $ [sudo]npm install -g hrfax-vue-cli
 
 ## Usage 
     # 查看模板
-    $ [sudo]hrfax list
+    $ [sudo]hrfax-vue list
     # 初始化项目
-    $ [sudo]hrfax init
+    $ [sudo]hrfax-vue init
 
 ```
-hrfax-frontend
+hrfax-vue-fontend
 ```
 
 ## Contributing
