@@ -1,0 +1,26 @@
+{
+  "name": "hrfax-frontend-cli",
+  "version": "1.0.5",
+  "description": "hrfax-frontend-cli",
+  "preferGlobal": true,
+  "bin": {
+    "hrfax": "bin/hrfax"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend-cli",
+    "hrfax"
+  ],
+  "author": "yangwenshou",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^5.1.0",
+    "request": "^2.88.2"
+  }
+}
